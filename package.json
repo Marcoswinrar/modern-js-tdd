@@ -1,0 +1,25 @@
+{
+  "name": "modern-js-tdd",
+  "version": "1.0.0",
+  "description": "All for js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marcoswinrar/modern-js-tdd.git"
+  },
+  "keywords": [
+    "Javascript",
+    "es6",
+    "tdd",
+    "babel"
+  ],
+  "author": "Marcos Eduardo Winiarski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Marcoswinrar/modern-js-tdd/issues"
+  },
+  "homepage": "https://github.com/Marcoswinrar/modern-js-tdd#readme"
+}
